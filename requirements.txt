@@ -1,0 +1,13 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+python-multipart==0.0.9
+torch==2.2.1
+transformers==4.38.2
+g2p_en==2.1.0
+librosa==0.10.1
+soundfile==0.12.1
+Levenshtein==0.25.0
+setuptools==69.5.1
+numpy<2.0
+scipy<1.13.0
+
